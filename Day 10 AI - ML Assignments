@@ -1,0 +1,12 @@
+From data inferred we could find some observations:
+     i) Employess with age 29 and single are more likely opt for attrition
+    ii) Employees with age 29 in role as research scientist with pay around 20k-30k found more likely for attrition.
+   iii) Employees working in Research and Development with educational background as Medical and Life sciences are 
+        more likely opted for attrition.
+    iv) Employees working in Research and Development and 0 years with current manager are more likely for                   attrition.
+     v) Employees with pay around 20k-30k and 0 years with current manager are more likely for attrition.
+    vi) Employees working in Research and Development and travelling rarely more likely for attrition.
+   vii) Employees travelling rarely and 0 years with current manager are more likely for attrition.
+  viii) Employees on Sales and travelling rarely more likely for attrition.
+    ix) Employees working in Research and Development and number of companies worked with are 0 & 1 are more likely         for attrition.
+     x) Employees working in Research and Development, travelling rarely, number of companies worked with are 0 & 1         and 0 years with current manager are more likely for attrition.
